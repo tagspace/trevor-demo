@@ -1,6 +1,6 @@
-# Code for: How we built our interactive demo walk-through
+# Code for: "interactive demo" from Trevor.io landing page
 
-This is the code for an interactive demo we built to give visitors a feel for what the [Trevor.io](https://trevor.io) platform does.
+This is the code for an interactive demo we built to give visitors a feel for what the [Trevor.io](https://trevor.io) query builder does.
 
 To see the **interactive demo** in action, click [here](https://trevor.io#demo) and scroll down to "Interactive demo".
 
