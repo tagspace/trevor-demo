@@ -1,6 +1,6 @@
 # Code for: "interactive demo" from Trevor.io landing page
 
-We built an interactive demo version of our platform (click image below to try it out).
+We built an interactive demo version of our platform for our landing page (click image below to [see it in action](https://trevor.io#demo)).
 
 Feel free to fork this repo if you want to build your own interactive demo.
 
