@@ -9,3 +9,5 @@ Feel free to fork this repo if you want to build your own interactive demo.
 To run this demo on your own machine, clone/download this repo and run:
 
 ./start-on-mac.sh
+
+A blogpost explaining how we built it is available [here](https://app.trevor.io/public/blog/demo)
