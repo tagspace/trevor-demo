@@ -1,8 +1,8 @@
 # Code for: "interactive demo" from Trevor.io landing page
 
-This is the code for an interactive demo we built to give visitors a feel for what the [Trevor.io](https://trevor.io) query builder does.
+We built an interactive demo version of our platform so that visitors of our landing page can get a feel for what using our Query Builder is like without signing up (see it in action half-way down the page [here](https://trevor.io#demo)).  
 
-To see the **interactive demo** in action, click [here](https://trevor.io#demo) and scroll down to "Interactive demo".
+Feel free to fork this repo if you want to build your own interactive demo.
 
 To run this demo on your own machine, clone/download this repo and run:
 
