@@ -6,8 +6,8 @@ Feel free to fork this repo if you want to build your own interactive demo.
 
 [![screenshot trevor demo](https://raw.githubusercontent.com/tagspace/trevor-demo/master/img/screenshot-trevor-demo.png)](https://trevor.io#demo)
 
+A blogpost explaining how we built it is available [here](https://app.trevor.io/public/blog/demo).
+
 To run this demo on your own machine, clone/download this repo and run:
 
 ./start-on-mac.sh
-
-A blogpost explaining how we built it is available [here](https://app.trevor.io/public/blog/demo)
